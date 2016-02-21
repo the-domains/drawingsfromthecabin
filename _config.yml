@@ -1,0 +1,28 @@
+name: drawingsfromthecabin
+favicon: null
+layout_spectrum: 0.6769491310697049
+typography_spectrum: 0.9335760623216629
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.18969100574031472
+  lightness: 0.3196109510026872
+  saturation: 0.2973045746330172
+  rhythmicContrast: 0.693063338752836
+purpose: []
